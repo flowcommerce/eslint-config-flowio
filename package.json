@@ -1,0 +1,27 @@
+{
+  "name": "@flowio/eslint-config-flowio",
+  "version": "1.0.0",
+  "description": "A package that provides Flow Commerce's .eslintrc as an extensible shared config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flowcommerce/eslint-config-flowio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flowcommerce/eslint-config-flowio/issues"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "flow commerce",
+    "javascript"
+  ],
+  "author": "Flow Commerce",
+  "contributors": [
+    "Christian Muñoz <christian.munoz@flow.io>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "8.0.0"
+  }
+}
