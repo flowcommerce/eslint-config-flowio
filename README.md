@@ -8,7 +8,7 @@ Our default export contains all of our ESLint rules, including ECMAScript 6+ and
 
 
 ```bash
-npm install --save-dev eslint-config-flowio eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint
+npm install --save-dev @flowio/eslint-config-flowio eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y eslint
 ```
 
 ## Usage
@@ -17,5 +17,5 @@ Extend the config in a `.eslintrc` file:
 
 ```json
 {
-  "extends": "flowio"
+  "extends": "@flowio/flowio"
 }
