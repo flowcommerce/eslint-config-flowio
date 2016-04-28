@@ -1,6 +1,6 @@
 {
   "name": "@flowio/eslint-config-flowio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that provides Flow Commerce's .eslintrc as an extensible shared config",
   "main": "index.js",
   "repository": {
