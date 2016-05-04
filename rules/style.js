@@ -2,6 +2,7 @@
 
 module.exports = {
   'rules': {
-    'indent': [2, 2]
+    'indent': [2, 2],
+    'quote-props': [2, 'consistent-as-needed']
   }
 }
