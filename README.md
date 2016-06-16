@@ -19,3 +19,4 @@ Extend the config in a `.eslintrc` file:
 {
   "extends": "@flowio/flowio"
 }
+```
