@@ -21,8 +21,14 @@
     "Christian Muñoz <christian.munoz@flow.io>"
   ],
   "license": "MIT",
+  "scripts": {
+    "postpublish": "greenkeeper-postpublish"
+  },
   "dependencies": {
     "eslint-config-airbnb": "^10.0.0"
+  },
+  "devDependencies": {
+    "greenkeeper-postpublish": "^1.0.0"
   },
   "peerDependencies": {
     "eslint": "^3.2.2",
