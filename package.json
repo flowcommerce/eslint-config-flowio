@@ -25,7 +25,8 @@
     "postpublish": "greenkeeper-postpublish"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^14.1.0"
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.1.1"
   },
   "devDependencies": {
     "eslint": "^3.13.1",
