@@ -1,5 +1,7 @@
 # eslint-config-flowio
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/flowcommerce/eslint-config-flowio.svg)](https://greenkeeper.io/)
+
 > A package that provides Flow Commerce's `.eslintrc` as an extensible shared config.
 
 ## Installation
