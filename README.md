@@ -52,9 +52,9 @@ your `.eslintrc` in the following way to include it:
 
 MIT
 
-[npm-image]: https://img.shields.io/npm/v/@flowio/eslint-config-flowio.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/@flowio/eslint-config-flowio.svg
 [npm-url]: https://www.npmjs.com/package/@flowio/eslint-config-flowio
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-flowio.svg?style=flat-square
+[downloads-image]: https://img.shields.io/npm/dm/eslint-config-flowio.svg
 [downloads-url]: https://www.npmjs.com/package/@flowio/eslint-config-flowio
 [greenkeeper-image]: https://badges.greenkeeper.io/flowcommerce/eslint-config-flowio.svg
 [greenkeeper-url]: https://greenkeeper.io/
