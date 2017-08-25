@@ -48,7 +48,7 @@ your `.eslintrc` in the following way to include it:
 }
 ```
 
-### Acknowledgement
+## Acknowledgement
 
 A special thanks to:
 
