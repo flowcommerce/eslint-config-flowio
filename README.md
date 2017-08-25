@@ -1,10 +1,10 @@
-# eslint-config-flowio
-
 [![NPM Version][npm-image]][npm-url]
 [![Downloads][downloads-image]][downloads-url]
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 
-> A package that provides Flow Commerce's `.eslintrc` as an extensible shared config.
+# eslint-config-flowio
+
+A package that provides our `.eslintrc` as an extensible shared config.
 
 ## Installation
 
@@ -47,6 +47,12 @@ your `.eslintrc` in the following way to include it:
   "extends": "@flowio/flowio/base"
 }
 ```
+
+### Acknowledgement
+
+A special thanks to:
+
+* [Airbnb](https://github.com/airbnb) for sharing their extensive JavaScript style guide and ESLint rules.
 
 ## License
 
