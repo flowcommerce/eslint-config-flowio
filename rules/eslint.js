@@ -2,6 +2,6 @@
 
 module.exports = {
   'rules': {
-    'function-paren-newline': 'off',
+    'function-paren-newline': ["error", "consistent"],
   }
 }
