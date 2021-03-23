@@ -29,7 +29,7 @@ install-peerdeps --dev @flowio/eslint-config-flowio
 
 ## Usage
 
-Our default export contains all of our ESLint rules, including ECMAScript 6+ and React, which are based on [`eslint-config-airbnb`](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) with some rules modified.
+Our default export contains all of our ESLint rules, including ECMAScript 6+ and React, which are based on [`eslint-config-airbnb`](https://github.com/airbnb/javascript/tree/main/packages/eslint-config-airbnb) with some rules modified.
 
 Extend the config in a `.eslintrc` file:
 
